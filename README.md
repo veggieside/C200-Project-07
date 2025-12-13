@@ -1,25 +1,46 @@
 # Project Name
+
 MSCH-C220 Final Project
 
+One Man Band
+
 ## Theme
-How you thought about or interpreted the theme
+
+A game I thought of with just one button/click was Rhythm Heaven, so I decided to go that route and make a rhythm game.
 
 ## Game Play
-Objective
-Game-play instructions
 
-## What did you 
-Struggles or surprises you encountered during the development of the game
+Time your button presses correctly to the beat of the song, indicated by a three-colored circle that measures how accurate your time is.
+
+## What did you
+
+I think the hardest part was figuring out how to have my white hit-circle correctly respond to which area of color it was in.
 
 ## Implementation
-Features
-Assets, or resources used
+
+All artwork created by me
+
+One button gameplay
+
+Audio
+
+Animation
+
+User interfaces
+
+Gameplay level
 
 ## Special Focus
-What is your special focus? What did you do for it? How would you rate your own effort? 1-5. (I will agree or disagree with this sentiment, but I want to know what you thought)
+
+My special focus was in art, so I created all of my sprites myself and worked to design a new character for this game and tried to tie it together with my game's overall aesthetic theme. I would rate my effort in my area of focus a 5, as this is the most time I've put into making art for an assignment in this class.
 
 ## References
 
+Song: https://www.youtube.com/watch?v=OskXF3s0UT8
+
 ## Future Development
 
-# Created by: Your Name
+Adjusting the rhythm mechanic to have more variety, maybe held notes, etc. Making actual animations for the sprites rather than tweens.
+
+# Created by: Scott Trout
+
